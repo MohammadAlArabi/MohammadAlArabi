@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... ROM development 
 - 💬 Ask me about ... Custom ROM 
 - 📫 How to reach me: ... @YourDulavai
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... Banglish
+- ⚡ Fun fact: ... iam funny 
 -->
