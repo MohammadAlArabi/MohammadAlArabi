@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Al Arabi</h1>
 
-<h3 align="center">A custom ROM lover</h3>
+<h3 align="center">A custom ROM lover and an official ROM maintainer for Redmi K20 Pro (Raphael) in RisingOs and Project Elixir. I'm passionate about exploring new technologies and constantly learning. My GitHub is filled with exciting projects where I contribute and collaborate with the open-source community. Let's connect, share knowledge, and create amazing things together! 🚀</h3>
 
 <Img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mohammadkingoftheworld@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny 🤣🤣**
+- ⚡ Fun fact **I live in Bangladesh 🇧🇩**
 
 <h3 align="left">Connect with me:</h3>
 
